@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cities-page-react-2023-10-10/static/css/main.e6c13ad2.css",
+    "main.js": "/cities-page-react-2023-10-10/static/js/main.f7eb4b03.js",
+    "index.html": "/cities-page-react-2023-10-10/index.html",
+    "main.e6c13ad2.css.map": "/cities-page-react-2023-10-10/static/css/main.e6c13ad2.css.map",
+    "main.f7eb4b03.js.map": "/cities-page-react-2023-10-10/static/js/main.f7eb4b03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f7eb4b03.js"
+  ]
+}
